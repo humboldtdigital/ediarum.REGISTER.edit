@@ -51,7 +51,3 @@ Name: Text Encoding Initiative (TEI) Consortium materials
 Link: http://www.tei-c.org/Guidelines/access.xml
 License: Dual-licensed: Creative Commons Attribution-ShareAlike 3.0 Unported License or BSD 2-Clause license.
 
-### Font Linux Libertine
-
-ediarum.REGISTER.edit contains also the fonts Linux Libertine and Biolinum. You'll find their respective 
-licences in the font directory.
